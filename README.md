@@ -1,4 +1,4 @@
-# inter-ques
+# Interview Questions
 Your application can handle 100 request but you are sending 200 request
 
 SOLID principles 
