@@ -82,4 +82,5 @@ How to produce msg to same partition always in kafka
 Dead letter queue kakfa
 
 When Does the finally Block Not Get Executed in Java?
+
 https://blog.stackademic.com/when-does-the-finally-block-not-get-executed-in-java-b8a68b681974
